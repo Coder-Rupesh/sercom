@@ -1,0 +1,104 @@
+.col-md-8
+{
+	background-color: #cbeaed;
+
+}
+h1
+{
+	font-family:'Sacramento', cursive;
+	font-size:2.5rem;
+	color: white;
+	font-weight:normal;
+}
+h3
+{
+	font-family:'Montserrat',sans-serif;
+	color: #11999E;
+}
+h5
+{
+	font-family:'Montserrat',sans-serif;
+	color: #11999E;	
+}
+.card-text
+{
+	font-family:sans-serif;
+	color:#1d1b38;
+}
+.service
+{
+	text-align:center;
+	text-decoration:underline;
+}
+.ser
+{
+	margin:10px; 10px auto 10px;
+}
+.bottom-container
+{
+height:10.5rem;
+background-color:#11999E;
+margin-top:20px;
+padding:20px; 
+text-align:center;
+
+}
+.footer-link
+{
+	margin:auto 10px auto 10px;
+	color:#66BFBF;
+}
+.copyryt
+{
+	color:#EAF8F8;
+	margin-top:50px;
+}
+/* About Us*/
+.lead
+{
+	text-align:justify;
+	font-family:sans-serif;
+}
+.team
+{
+padding:10px;
+}
+.team-head
+{
+	text-align:center;
+
+}
+.card
+{
+	border:none;
+}
+.abt img
+{
+	width: 200px;
+	height:200px;
+	border-radius:100%;
+	margin:30px auto 30px auto;
+}
+.card-body
+{
+	text-align:center;
+}
+/* Contact Us */
+.list-group-item
+{
+	font-size:20px;
+	border:none;
+}
+.or h3
+{
+	margin-left: 50%;
+    margin-right:25%;
+    width: 50%;
+}
+form
+{
+	margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+	padding:10px;
+}
